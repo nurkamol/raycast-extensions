@@ -1,6 +1,6 @@
 # Quarantine Manager
 
-## [Scan apps and folders] - {PR_MERGE_DATE}
+## [Scan apps and folders] - 2026-06-08
 
 ### Added
 
