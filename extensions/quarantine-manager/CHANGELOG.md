@@ -1,6 +1,6 @@
 # Quarantine Manager
 
-## [Single command with batch select] - {PR_MERGE_DATE}
+## [Single command with batch select] - 2026-06-10
 
 ### Changed
 
